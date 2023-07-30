@@ -1,0 +1,13 @@
+body{
+    /* background-image: url('http://127.0.0.1:8000/fotouser/10.PNG');
+    background-size: 35%;  */
+    background-color: forestgreen;
+}
+
+.container{
+    margin-top:130px;
+}
+
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
